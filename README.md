@@ -114,14 +114,6 @@ my-react-app/
 - [React Documentation](https://react.dev/)
 - [Vite React Plugin](https://github.com/vitejs/vite-plugin-react)
 
-## Contributing
+## Personal Project
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
+This is a personal development project for learning and experimentation.
